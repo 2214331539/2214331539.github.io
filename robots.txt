@@ -1,0 +1,2 @@
+# Yita official website sitemap
+Sitemap: https://2214331539.github.io/YitaWeb/sitemap.xml
